@@ -1,6 +1,7 @@
 name: flutter_im_kit
 description: A Flutter Im Kit.
-version: 0.0.1
+publish_to: 'http://dart-pub.byted.org' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0
 homepage:
 
 environment:
