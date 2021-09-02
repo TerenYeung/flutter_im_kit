@@ -1,5 +1,7 @@
 # flutter_im_kit
 
+[![pub package](https://img.shields.io/pub/v/flutter_im_kit.svg)](https://pub.dartlang.org/packages/flutter_im_kit) [![GitHub stars](https://img.shields.io/github/stars/TerenYeung/flutter_im_kit)](https://github.com/TerenYeung/flutter_im_kit/stargazers) [![GitHub forks](https://img.shields.io/github/forks/TerenYeung/flutter_im_kit)](https://github.com/TerenYeung/flutter_im_kit/network)  [![GitHub license](https://img.shields.io/github/license/TerenYeung/flutter_im_kit)](https://github.com/fluttercandies/extended_text_field/blob/master/LICENSE)  [![GitHub issues](https://img.shields.io/github/issues/TerenYeung/flutter_im_kit)](https://github.com/fluttercandies/extended_text_field/issues)
+
 ## 概述
 
 **flutter_im_kit** 是一套基于 Flutter 的 IM 组件库，提供 IM 业务场景下的常用 UI 组件和解决方案。

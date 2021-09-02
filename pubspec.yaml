@@ -1,7 +1,7 @@
 name: flutter_im_kit
 description: A Flutter Im Kit.
 version: 1.0.0
-homepage:
+homepage: https://github.com/TerenYeung/flutter_im_kit
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
